@@ -1,0 +1,80 @@
+﻿  main.cpp
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(40,23): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(41,23): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(67,22): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(68,22): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(215,144): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(215,120): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(264,56): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(268,51): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(272,56): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(276,51): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(347,187): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(347,99): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(399,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(399,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(407,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(407,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(416,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(416,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(424,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(424,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(432,70): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\Somative 1\main.cpp(432,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Somative 1.vcxproj -> C:\Users\Mat\Desktop\SAE institute\cour et traveaux\traveaux maison pour l'école\somative n°1 (plateformer)\Somative 1\x64\Debug\Somative 1.exe
